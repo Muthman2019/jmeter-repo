@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1716385651095,97,Landing page,200,OK,Thread Group 1-1,text,true,,114,0,1,1,null,3,0,1
+1716385651198,109,Login,200,OK,Thread Group 1-1,text,true,,114,0,2,2,null,47,0,4
+1716385651308,199,Logout,200,OK,Thread Group 1-1,text,true,,114,0,3,3,null,29,0,1
+1716385651286,310,Landing page,200,OK,Thread Group 1-2,text,true,,114,0,2,2,null,14,0,2
+1716385651597,81,Login,200,OK,Thread Group 1-2,text,true,,114,0,2,2,null,7,0,3
+1716385651685,156,Landing page,200,OK,Thread Group 1-4,text,true,,114,0,3,3,null,40,0,4
+1716385651680,161,Logout,200,OK,Thread Group 1-2,text,true,,114,0,3,3,null,16,0,3
+1716385651485,409,Landing page,200,OK,Thread Group 1-3,text,true,,114,0,3,3,null,41,0,4
+1716385651843,297,Login,200,OK,Thread Group 1-4,text,true,,114,0,3,3,null,7,0,5
+1716385651895,374,Login,200,OK,Thread Group 1-3,text,true,,114,0,3,3,null,6,0,1
+1716385651886,460,Landing page,200,OK,Thread Group 1-5,text,true,,114,0,3,3,null,18,0,2
+1716385652141,392,Logout,200,OK,Thread Group 1-4,text,true,,114,0,3,3,null,3,0,3
+1716385652270,346,Logout,200,OK,Thread Group 1-3,text,true,,114,0,2,2,null,44,0,1
+1716385652347,298,Login,200,OK,Thread Group 1-5,text,true,,114,0,1,1,null,16,0,5
+1716385652646,300,Logout,200,OK,Thread Group 1-5,text,true,,114,0,1,1,null,28,0,1
